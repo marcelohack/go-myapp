@@ -1,6 +1,6 @@
-module github.com/antonputra/tutorials/lessons/195/myapp
+module github.com/marcelohack/go-myapp
 
-go 1.21.3
+go 1.22
 
 require github.com/gofiber/fiber/v2 v2.52.4
 
